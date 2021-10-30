@@ -24,7 +24,7 @@
   <img src="./ProjectsDemo/DTMONEY.gif" />
 </h1>
 
-<a href="./Chapter-02"> Code Here !</a>
+<a href="https://github.com/NinjaAzul/dt-money"> Code Here !</a>
 
 
 ##  Tecnologias utilizadas ✅
@@ -72,7 +72,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img src="./ProjectsDemo/Ignews Testing.gif" />
 </h1>
 
-<a href="./Chapter-03/ignews"> Code Here !</a>
+<a href="https://github.com/NinjaAzul/ignews"> Code Here !</a>
 
 
 ##  Tecnologias utilizadas ✅
@@ -115,7 +115,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img src="./ProjectsDemo/dashgo.gif" />
 </h1>
 
-<a href="./Chapter-04/dashgo"> Code Here !</a>
+<a href="https://github.com/NinjaAzul/dashgo"> Code Here !</a>
 
 
 ##  Tecnologias utilizadas ✅
@@ -157,7 +157,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img src="./ProjectsDemo/auth-ignite-project.gif" />
 </h1>
 
-<a href="./Chapter-04-auth-project/auth-app-ignite"> Code Here !</a>
+<a href="https://github.com/NinjaAzul/ignite-auth"> Code Here !</a>
 
 
 ##  Tecnologias utilizadas ✅
@@ -196,7 +196,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img src="./ProjectsDemo/performapp-ignite-project.gif" />
 </h1>
 
-<a href="./Chapter-05/perform-app"> Code Here !</a>
+<a href="https://github.com/NinjaAzul/perform-app-ignite"> Code Here !</a>
 
 
 ##  Tecnologias utilizadas ✅
